@@ -1,0 +1,5 @@
+testRunners\TestLoginRunner.class
+AppHooks\ApplicationHooks.class
+AppHooks\Apphooks.class
+stepDefinations\SponsorLoginStep.class
+stepDefinations\InvestorLoginStep.class
